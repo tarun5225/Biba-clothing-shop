@@ -1,0 +1,3 @@
+body{margin:0;font-family:Inter,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial;background:#f7f7fc;color:#111}
+.header{background:#fff;box-shadow:0 1px 0 rgba(0,0,0,0.06);position:sticky;top:0;z-index:20}
+.container{max-width:1200px;margin:0 auto;padding:16px}
